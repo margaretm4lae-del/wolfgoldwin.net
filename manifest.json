@@ -1,0 +1,19 @@
+{
+    "name": "Wolf Gold \u2013 Play & Win Big Online | Wolf Gold Casino",
+    "short_name": "PowerPlay",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Wolf Gold \u2013 Explore the thrilling slot adventure and win real cash | Wolf Gold Online Slot \u2013 Try Free Play & Enjoy Exciting Bonuses",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
